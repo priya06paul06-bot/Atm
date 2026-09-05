@@ -1,12 +1,12 @@
-## Introduction
+##Introduction
 ATM Simulator is a simple web-based PHP project developed to demonstrate the basic working of an Automated Teller Machine. 
 The project allows users to perform basic banking operations through a simple and user-friendly interface.
 
-## Project Objective
+##Project Objective
 The main objective of this project is to understand PHP programming, 
 form handling, conditional statements, and basic transaction operations.
 
-## Features
+##Features
 - Check account balance
 - Deposit money
 - Withdraw money
@@ -14,22 +14,22 @@ form handling, conditional statements, and basic transaction operations.
 - Simple and user-friendly interface
 - No database is required
 
-## Technologies Used
+##Technologies Used
 - PHP
 - HTML
 - CSS
 
-## Working of the Project
+##Working of the Project
 The user can select an ATM operation and enter the required amount. 
 PHP processes the user's request and updates the balance according to the selected operation.
 
 The project provides basic operations such as:
 - Balance Check
 - Deposit
-- Withdrawal
+- Withdraw
 
 
-## How to Run the Project
+##How to Run the Project
 1. Install PHP on the system.
 2. Open the project using a PHP-supported environment.
 3. Start the PHP development server.
@@ -38,24 +38,25 @@ The project provides basic operations such as:
 6. Enter the required amount.
 7. View the transaction result.
 
-## Advantages
+##Advantages
 - Easy to understand and use.
 - Demonstrates basic PHP concepts.
 - Provides instant transaction results.
 - Does not require a database.
 - Suitable for beginners.
 
-## Future Scope
+##Future Scope
 The project can be improved by adding PIN authentication, transaction history,
 database connectivity, receipt generation, and multiple user accounts.
 
-## Conclusion
-ATM Simulator is a simple PHP-based project that demonstrates basic banking operations using PHP. It provides a practical understanding of user input, conditional logic, and transaction processing.
+##Conclusion
+ATM Simulator is a simple PHP-based project that demonstrates basic banking operations using PHP. 
+It provides a practical understanding of user input, conditional logic, and transaction processing.
 
-## Project File
+##Project File
 - index.php
 
-## Project Output
+##Project Output
 1.Output
 
 
